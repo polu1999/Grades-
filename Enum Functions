@@ -1,0 +1,60 @@
+     
+#includee<iostream>
+using namespace std;
+enum Numbers(3,5,11,17,23,29,31);
+int main() 
+
+{ 
+     SUM Numbers;
+     Number = 3;
+     cout << "Number:" << 3+31<< endl;
+     Number = 5;
+     cout << "Number:" << 4+29<< endl;
+     Number = 11;
+     cout << "Number:" << 11+23<< endl;
+     Number = 17;
+     cout << "Number:" << 17+17<< endl;
+     return 0;
+                 }
+
+
+#includee<iostream>
+using namespace std;
+enum Numbers(3,5,11,17,23,29,31);
+int main() 
+
+{ 
+     SUM Numbers;
+     Number = 3;
+     cout << "Number:" << 3+31<< endl;
+     Number = 5;
+     cout << "Number:" << 4+29<< endl;
+     Number = 11;
+     cout << "Number:" << 11+23<< endl;
+     Number = 17;
+     cout << "Number:" << 17+17<< endl;
+     return 0;
+                 }
+
+
+
+#includee<iostream>
+using namespace std;
+enum Numbers(3,5,11,17,23,29,31);
+int main() 
+
+{ 
+     SUM Numbers;
+     Numbe = 3;
+     cout << "Number:" << 3+31<< endl;
+     Number = 5;
+     cout << "Number:" << 4+29<< endl;
+     Number = 11;
+     cout << "Number:" << 11+23<< endl;
+     Number = 17;
+     cout << "Number:" << 17+17<< endl;
+     return 0;
+                 }
+
+
+
